@@ -1,5 +1,5 @@
 ![MasterHead](https://github.com/SafwanELLipSE/SafwanELLipSE/blob/main/banner-github.png)
-<h1 align="center">Hi 👋, I'm Rubab Hassan</h1>
+<h1 align="center">Hi 👋, I'm Safwan Hassan</h1>
 <h3 align="center">A passionate Laravel and Frontend developer from Bangladesh</h3>
 <img align="right" alt="Coding is Life" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 
