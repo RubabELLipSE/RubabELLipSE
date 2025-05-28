@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Laravel and Frontend developer from Bangladesh</h3>
 <img align="right" alt="Coding is Life" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=safwanellipse&label=Profile%20views&color=0e75b6&style=flat" alt="safwanellipse" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RubabELLipSE&label=Profile%20views&color=0e75b6&style=flat" alt="RubabELLipSE" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RubabELLipSE" alt="RubabELLipSE" /></a> </p>
 
