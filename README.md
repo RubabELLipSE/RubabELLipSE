@@ -17,8 +17,6 @@
 
 - 💬 Ask me about **HTML, CSS, Laravel, Php, OOP**
 
-- 📫 How to reach me **#**
-
 - ⚡ Fun fact **I love to play games.**
 
 <h3 align="left">Connect with me:</h3>
