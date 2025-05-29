@@ -34,7 +34,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RubabELLipSE&" alt="RubabELLipSE" /></p>
 
-<img alt="github-snake" src="https://raw.githubusercontent.com/RubabELLipSE/RubabELLipSE/output/github-snake.svg" />
 
 
 
